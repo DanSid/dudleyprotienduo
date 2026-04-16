@@ -197,14 +197,14 @@ export const products = [
     accent: '#6D8875',
     accentSoft: '#EEF5F0',
     accentDeep: '#27342B',
-    heroImage: '/assets/redesign/protein-duo-main.png',
+    heroImage: '/assets/DUDLEYS_Protein_Boost_&_Seal_Duo_Motion.mp4',
     gallery: [
       '/assets/redesign/protein-duo-main.png',
-      '/assets/IMG_9292 Protein Boost & Seal Duo.png',
-      '/assets/IMG_9293 Protein Boost & Seal Duo.png',
+      // '/assets/IMG_9292 Protein Boost & Seal Duo.png',
+      // '/assets/IMG_9293 Protein Boost & Seal Duo.png',
     ],
     detailImage: '/assets/IMG_9293 Protein Boost & Seal Duo.png',
-    video: '/assets/DUDLEYS_Protein_Boost_&_Seal_Duo_Motion.mp4',
+    // video: '/assets/DUDLEYS_Protein_Boost_&_Seal_Duo_Motion.mp4',
     badge: 'Treatment spotlight',
     notes: ['Duo format', 'Support + softness', 'Premium shelf appeal'],
     highlights: [
