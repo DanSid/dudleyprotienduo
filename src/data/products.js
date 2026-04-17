@@ -187,7 +187,7 @@ export const products = [
   {
     slug: 'protein-boost-seal',
     route: '/protein-boost-seal',
-    shopLink: 'https://shop.dudleyq.com/products/peppermint-soothe-conditioner-8-oz?_pos=2&_sid=90d2e19d3&_ss=r',
+    shopLink: 'https://shop.dudleyq.com/products/protein-boost-seal-duo',
     name: 'Protein Boost & Seal Duo',
     eyebrow: 'Strength-meets-softness duo',
     shortName: 'Protein Boost Duo',
